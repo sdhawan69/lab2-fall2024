@@ -1,0 +1,29 @@
+/** Step one **/
+
+/** Step two **/
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+/** Step three **/
+h1{
+    font-size: 46px;
+    letter-spacing: 2px;
+    justify-content: center;
+    align-items: center;
+    color: #1272b8;
+}
+
+/** Step four **/
+p,a,li{
+    font-family: 'Playwrite CU', cursive;
+}
+/** Step five **/
+span{
+    color: #b8122b;
+}
+/** Step six **/
+h3{
+    font-size: 36px;
+    text-shadow: 4px 3px 4px rgba(0, 0, 0, 0.75);
+}
